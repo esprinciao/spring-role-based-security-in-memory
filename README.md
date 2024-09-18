@@ -1,4 +1,4 @@
-# rolebasedsecurityinmemory
+# role based security in memory
 
 This repository demonstrates an implementation of role-based security using in-memory data structures. It provides a simple way to manage user roles and permissions dynamically.
 
